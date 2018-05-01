@@ -8,5 +8,6 @@ module.exports = [
   'iPod',
   'McDonalds',
   'PDFs',
-  'pH'
+  'pH',
+  'GitHub'
 ];
