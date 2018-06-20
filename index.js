@@ -1,5 +1,6 @@
 module.exports = [
   'DateTime',
+  'ID',
   'IDs',
   'iMac',
   'iOS',
