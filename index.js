@@ -10,5 +10,7 @@ module.exports = [
   'McDonalds',
   'PDFs',
   'pH',
-  'GitHub'
+  'GitHub',
+  '3D',
+  'IMAX'
 ];
