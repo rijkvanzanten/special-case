@@ -12,5 +12,6 @@ module.exports = [
   'pH',
   'GitHub',
   '3D',
-  'IMAX'
+  'IMAX',
+  'IP'
 ];
