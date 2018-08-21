@@ -1,6 +1,6 @@
 {
   "name": "@rijk/special-case",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "An array of (popular) specially-cased words",
   "main": "index.js",
   "repository": {
