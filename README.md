@@ -9,7 +9,7 @@ npm install @rijk/special-case
 
 ## Usage
 ```js
-const acronyms = require('@rijk/special-case');
+const specialCase = require('@rijk/special-case');
 // => ['DateTime', 'IDs', 'iPhone', 'PDFs', ...]
 ```
 
